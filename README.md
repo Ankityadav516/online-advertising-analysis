@@ -1,4 +1,5 @@
 # Online Advertising Performance Analysis
+👉 This project was completed in  two-parts . [Click here to see Part 1 (Advertising Sales Analysis)](https://github.com/Ankitlove516/advertising-sales-analysis)
 
 ## 📌 Project Overview
 
